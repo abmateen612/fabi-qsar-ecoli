@@ -29,8 +29,19 @@ RDKit 2D descriptors → Random Forest regression → validation
 
 ## Results
 
-See `results/` for feature importance, predicted-vs-actual, and 
-applicability domain plots.
+## Results
+
+**Feature importance**
+
+![Feature Importance](results/feature_importance.png)
+
+**Predicted vs. actual (test set)**
+
+![Predicted vs Actual](results/pred_vs_actual.png)
+
+**Applicability domain (Williams plot)**
+
+![Applicability Domain](results/applicability_domain.png)
 
 ## Requirements
 
